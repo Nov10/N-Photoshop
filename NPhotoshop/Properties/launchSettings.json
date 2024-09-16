@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "NPhotoshop (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "NPhotoshop (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
